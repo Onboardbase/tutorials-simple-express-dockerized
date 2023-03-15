@@ -1,2 +1,3 @@
-# simple-express-application Docker
-An example of how to use Onboardbase in a NodeJs Server Application
+Tutorial Project showing how to use Onboardbase in Docker
+
+[Link to Article](https://docs.onboardbase.com/docs/using-onboardbase-in-docker)
